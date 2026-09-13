@@ -144,7 +144,7 @@ Superstore-Sales-Profit-Analysis/
 ├── Superstore_Dashboard.pbix
 ├── README.md
 │
-└── images/
+└── 04_Screenshorts/
     ├── Dashboard_1_Sales_Profit.png
     └── Dashboard_2_Product_Customer.png
 ```
