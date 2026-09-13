@@ -149,7 +149,7 @@ Superstore-Sales-Profit-Analysis/
     └── Dashboard_2_Product_Customer.png
 ```
 
-> **Note:** Upload the two dashboard screenshots into an `images` folder in GitHub so the images displayed below work correctly.
+> **Note:** Note: Dashboard screenshots are available in the `04_Screenshots` folder in GitHub so the images displayed below work correctly.
 
 ---
 
@@ -157,11 +157,11 @@ Superstore-Sales-Profit-Analysis/
 
 ### Dashboard 1 — Executive Overview
 
-![Dashboard 1](images/Dashboard_1_Sales_Profit.png)
+![Dashboard 1](04_Screenshots/Dashboard_1_Sales_Profit.png)
 
 ### Dashboard 2 — Product & Customer Performance
 
-![Dashboard 2](images/Dashboard_2_Product_Customer.png)
+![Dashboard 2](04_Screenshots/Dashboard_2_Product_Customer.png)
 
 ---
 
